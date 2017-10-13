@@ -1,0 +1,1 @@
+# adama-store-locator
